@@ -1,4 +1,4 @@
-# RabbitMq demo using expressJs
+# RabbitMq demo using expressJs and Event driven approach
 - Publisher and Subscriber mode
 - Request and Reply mode
 
